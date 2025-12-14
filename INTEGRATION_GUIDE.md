@@ -523,16 +523,6 @@ The slowest part is usually:
 
 ---
 
-## 💡 Pro Tips
-
-1. **Use demo mode** if backend isn't ready - the HTML works standalone!
-2. **Test with small repos first** (like github.com/octocat/Hello-World)
-3. **Keep terminal open** to see backend logs
-4. **Use incognito mode** if you see caching issues
-5. **Monitor Gemini quota** at https://makersuite.google.com
-
----
-
 ## 🆘 Still Having Issues?
 
 1. Check all terminal outputs for error messages
@@ -540,16 +530,5 @@ The slowest part is usually:
 3. Make sure port 18080 is not blocked by firewall
 4. Try compiling with verbose output: `g++ -v ...`
 5. Test each component separately (backend, frontend, API)
-
----
-
-## 📝 For Your Presentation
-
-**Key points to mention:**
-- "We integrated Google's latest Gemini AI API"
-- "Full-stack C++ backend with modern web frontend"
-- "Real-time analysis with 11+ advanced features"
-- "Production-ready CORS support and error handling"
-- "Scalable architecture ready for deployment"
 
 Good luck! 🎉
