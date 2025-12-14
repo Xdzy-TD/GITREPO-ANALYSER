@@ -1,4 +1,5 @@
 # 🚀 GitGrade Pro - AI-Powered Code Analysis Platform
+MADE WITH GEMINI AI
 
 <div align="center">
 
