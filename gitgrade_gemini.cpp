@@ -14,7 +14,7 @@ using json = nlohmann::json;
 namespace fs = std::filesystem;
 
 // ==================== CONFIGURATION ====================
-const std::string GEMINI_API_KEY = "AIzaSyBPvSjGACz3O7mRnHfZOLKgukexkrsrcn0";
+const std::string GEMINI_API_KEY = "YOUR_GOOGLE_API Key here";
 const std::string GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent";
 
 // ==================== FEATURE 1: REPO FETCHING ====================
