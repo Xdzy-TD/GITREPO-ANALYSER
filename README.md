@@ -315,7 +315,6 @@ MIT License - feel free to use for your projects!
 ## 📞 Support
 
 - 📖 Read the [INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md)
-- 📚 Check [FEATURES_DOCUMENTATION.md](FEATURES_DOCUMENTATION.md)
 - 🐛 Report issues on GitHub
 - 💡 Suggest features via issues
 
@@ -323,7 +322,7 @@ MIT License - feel free to use for your projects!
 
 <div align="center">
 
-**Made with ❤️ and C++17**
+**Made with C++17**
 
 **Powered by Google Gemini AI**
 
